@@ -1,2 +1,2 @@
 # first-github
-Test GitHub repository
+Test GitHub repository - master
